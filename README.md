@@ -32,7 +32,7 @@ This is a **console-based Pizza Billing Application** developed using **Core Jav
 
 1. Clone or download the project:
     ```
-    git clone https://github.com/YourUsername/Pizza-Bill-Generator-Java.git
+    git clone https://github.com/S-a-i845/Pizza-Bill-Generator-Java.git
     ```
 
 2. Open the project in your preferred Java IDE (like IntelliJ IDEA or Eclipse).
